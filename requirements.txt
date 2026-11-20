@@ -1,0 +1,6 @@
+# Python 3.11.
+# El pickle adjunto registra scikit-learn 1.5.2.
+# La versión exacta de Orange que lo generó no se puede extraer con certeza.
+streamlit==1.51.0
+Orange3==3.41.0
+scikit-learn==1.5.2
